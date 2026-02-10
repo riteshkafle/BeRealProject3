@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *BeReal*
 
 Submitted by: **Your Name Here**
 
@@ -25,7 +25,6 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
 
 <div>
     <a href="https://www.loom.com/share/cd3cec92fe17496a9ef81ffaeb747f2f">
