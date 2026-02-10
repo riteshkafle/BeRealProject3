@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] User receive notifcation when it is time to post
+- [ Done] User receive notifcation when it is time to post
 
 The following **additional** features are implemented:
 
