@@ -26,8 +26,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 215.5688622754491%; height: 0;"><iframe src="https://www.loom.com/embed/cd3cec92fe17496a9ef81ffaeb747f2f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<div>
+    <a href="https://www.loom.com/share/cd3cec92fe17496a9ef81ffaeb747f2f">
+      <p>QuickTime Player - ScreenRecording_02-09-2026 22-07-56_1.MOV - 9 February 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/cd3cec92fe17496a9ef81ffaeb747f2f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cd3cec92fe17496a9ef81ffaeb747f2f-d32dc62bfadf8817-full-play.gif#t=0.1">
+    </a>
+  </div>
 ## Notes
 
 Describe any challenges encountered while building the app.
